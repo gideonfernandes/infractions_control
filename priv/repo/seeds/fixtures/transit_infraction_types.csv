@@ -1,0 +1,424 @@
+C�digo de infra��o,Infra��o,Respons�vel,Artigos do CTB,Pontos - Gravidade 
+54870,Estacionar ao lado de outro ve�culo em fila dupla ,Condutor ,181 * XI ,5 - Grave 
+55173,Estacionar nos t�neis ,Condutor ,181 * XIV ,5 - Grave 
+55330,Estacionar aclive/declive n�o freado e sem cal�o seguran�a, PBT superior a 3500kg ,Condutor ,181 * XVI ,5 - Grave 
+55172,Estacionar nas pontes ,Condutor ,181 * XIV ,5 - Grave 
+56142,Parar na pista de rolamento das rodovias ,Condutor ,182 * V ,5 - Grave 
+54527,Estacionar ao lado ou sobre gramado ou jardim p�blico ,Condutor ,181 * VIII ,5 - Grave 
+76090,Organizar a conduta prevista no caput do art.253-A ,PF ou PJ ,253-A, � 1� ,7 - Grav�ssima 60 X 
+54524,Estacionar nas ilhas ou ref�gios ,Condutor ,181 * VIII ,5 - Grave 
+54523,Estacionar sobre ciclovia ou ciclofaixa ,Condutor ,181 * VIII ,5 - Grave 
+54010,Estacionar afastado da guia da cal�ada (meio-fio) a mais de 1m ,Condutor ,181, III ,5 - Grave 
+54525,Estacionar ao lado ou sobre canteiro central/divisores de pista de rolamento ,Condutor ,181 * VIII ,5 - Grave 
+56141,Parar na pista de rolamento das estradas ,Condutor ,182 * V ,5 - Grave 
+53550,Fazer ou deixar que se fa�a reparo em ve�culo, em rodovia e via de tr�nsito r�pido ,Condutor ,179 * I ,5 - Grave 
+54526,Estacionar ao lado ou sobre marcas de canaliza��o ,Condutor ,181 * VIII ,5 - Grave 
+54522,Estacionar sobre faixa destinada a pedestre ,Condutor ,181 * VIII ,5 - Grave 
+54950,Estacionar na �rea de cruzamento de vias ,Condutor ,181 * XII ,5 - Grave 
+55680,Estacionar local/hor�rio de estacionamento e parada proibidos pela sinaliza��o ,Condutor ,181 * XIX ,5 - Grave 
+55171,Estacionar nos viadutos ,Condutor ,181 * XIV ,5 - Grave 
+55414,Estacionar em desacordo com a regulamenta��o - vaga de carga/descarga ,Condutor ,181 * XVII ,5 - Grave 
+54440,Estacionar nos acostamentos ,Condutor ,181 * VII ,3 - Leve 
+55411,Estacionar em desacordo com a regulamenta��o especificada pela sinaliza��o ,Condutor ,181 * XVII ,5 - Grave 
+55412,Estacionar em desacordo com a regulamenta��o - estacionamento rotativo ,Condutor ,181 * XVII ,5 - Grave 
+55413,Estacionar em desacordo com a regulamenta��o - ponto ou vaga de t�xi ,Condutor ,181 * XVII ,5 - Grave 
+52070,Dirigir sem aten��o ou sem os cuidados indispens�veis � seguran�a ,Condutor ,169,3 - Leve 
+53630,Fazer ou deixar que se fa�a reparo em ve�culos nas vias (quando n�o rodovia/transito r�pido) ,Condutor ,179, II ,3 - Leve 
+53980,Estacionar afastado da guia da cal�ada (meio-fio) de 50cm a 1m ,Condutor ,181 * II ,3 - Leve 
+55417,Estacionar em desacordo com a regulamenta��o - vaga de curta dura��o ,Condutor ,181 * XVII ,5 - Grave 
+55840,Parar afastado da guia da cal�ada (meio-fio) de 50cm a 1m ,Condutor ,182 * II ,3 - Leve 
+56060,Parar  em desacordo com as posi��es estabelecidas no CTB ,Condutor ,182 * IV ,3 - Leve 
+56221,Parar no passeio ,Condutor ,182 * VI ,3 - Leve 
+56222,Parar  sobre faixa destinada a pedestres ,Condutor ,182 * VI ,3 - Leve 
+56223,Parar nas ilhas ou ref�gios ,Condutor ,182 * VI ,3 - Leve 
+56224,Parar nos canteiros centrais/divisores de pista de rolamento ,Condutor ,182 * VI ,3 - Leve 
+56225,Parar nas marcas de canaliza��o ,Condutor ,182 * VI ,3 - Leve 
+56810,Transitar na faixa/pista da direita regul circula��o exclusiva determ ve�culo ,Condutor ,184 * I ,3 - Leve 
+59830,Ultrapassar ve�culo em movimento que integre cortejo/desfile/forma��o militar ,Condutor ,205,3 - Leve 
+64400,Fazer uso do facho de luz alta dos far�is em vias providas de ilumina��o p�blica ,Condutor ,224,3 - Leve 
+64830,Usar buzina que n�o a de toque breve como advert�ncia a pedestre ou condutores ,Condutor ,227 * I ,3 - Leve 
+64910,Usar buzina prolongada e sucessivamente a qualquer pretexto ,Condutor ,227 * II ,3 - Leve 
+65050,Usar buzina entre as vinte e duas e as seis horas ,Condutor ,227 * III ,3 - Leve 
+65130,Usar buzina em locais e hor�rios proibidos pela sinaliza��o ,Condutor ,227 * IV ,3 - Leve 
+65210,Usar buzina em desacordo c/ os padr�es e freq��ncias estabelecidas pelo Contran ,Propriet�rio ,227 * V ,3 - Leve 
+69120,Conduzir ve�culo sem os documentos de porte obrigat�rio referidos no CTB ,Condutor ,232,3 - Leve 
+70051,Deixar de atualizar o cadastro de registro do ve�culo ,Propriet�rio ,241,3 - Leve 
+70052,Deixar de atualizar o cadastro de habilita��o do condutor ,Condutor ,241,3 - Leve 
+73901,� proibido ao pedestre cruzar pista de rolamento de viaduto exc onde permitido ,Pedestre ,254 * II ,3 - Leve 50% 
+73902,� proibido ao pedestre cruzar pista de rolamento de ponte exceto onde permitido ,Pedestre ,254 * II ,3 - Leve 50% 
+73903,� proibido ao pedestre cruzar pista de rolamento de t�neis exceto onde permitido ,Pedestre ,254 * II ,3 - Leve 50% 
+74040,� proibido ao pedestre atravessar via �rea cruzamento exc onde permitido p/ sinaliz ,Pedestre ,254 * III ,3 - Leve 50% 
+74120,� proib pedestre utilizar via em agrupam que perturbe tr�ns/pr�t esporte/desfile ,Pedestre ,254 * IV ,3 - Leve 50% 
+74201,� proibido ao pedestre andar fora da faixa pr�pria ,Pedestre ,254 * V ,3 - Leve 50% 
+74202,� proibido ao pedestre andar fora da passarela ,Pedestre ,254 * V ,3 - Leve 50% 
+74203,� proibido ao pedestre andar fora da passagem a�rea ,Pedestre ,254 * V ,3 - Leve 50% 
+74204,� proibido ao pedestre andar fora da passagem subterr�nea ,Pedestre ,254 * V ,3 - Leve 50% 
+74390,� proibido ao pedestre desobedecer a sinaliza��o de tr�nsito espec�fica ,Pedestre ,254 * VI ,3 - Leve 50% 
+52231,Usar ve�culo para arremessar sobre os pedestres �gua ou detritos ,Condutor ,171,4 - M�dia 
+52232,Usar ve�culo para arremessar sobre os ve�culos �gua ou detritos ,Condutor ,171,4 - M�dia 
+51851,Deixar o condutor de usar o cinto seguran�a ,Condutor ,167,5 - Grave 
+52312,Abandonar na via objetos ou subst�ncias ,Condutor ,172,4 - M�dia 
+51852,Deixar o passageiro de usar o cinto seguran�a ,Condutor ,167,5 - Grave 
+53470,Deixar o condutor envolvido em acidente s/ v�tima, de remover o ve�culo do local ,Condutor ,178,4 - M�dia 
+53710,Ter seu ve�culo imobilizado na via por falta de combust�vel ,Condutor ,180,4 - M�dia 
+53800,Estacionar nas esquinas e a menos de 5m do alinhamento da via transversal ,Condutor ,181 * I ,4 - M�dia 
+54100,Estacionar em desacordo com as posi��es estabelecidas no CTB ,Condutor ,181 * IV ,4 - M�dia 
+54360,Estacionar junto/sobre hidr de inc�ndio, reg de �gua/tampa de po�o visit gal sub ,Condutor ,181, VI ,4 - M�dia 
+54600,Estacionar em guia de cal�ada rebaixada destinada � entrada/sa�da de ve�culos ,Condutor ,181 * IX ,4 - M�dia 
+54790,Estacionar impedindo a movimenta��o de outro ve�culo ,Condutor ,181 * X ,4 - M�dia 
+53390,Deixar o condutor de prestar socorro v�tima acidente de tr�nsito, qdo solicit p/ agente ,Condutor ,177,5 - Grave 
+54521,Estacionar no passeio ,Condutor ,181 * VIII ,5 - Grave 
+55500,Estacionar em local/hor�rio proibido especificamente pela sinaliza��o ,Condutor ,181 * XVIII ,4 - M�dia 
+55760,Parar nas esquinas e a menos 5m do bordo do alinhamento da via transversal ,Condutor ,182 * I ,4 - M�dia 
+55920,Parar afastado da guia da cal�ada (meio-fio) a mais de 1m ,Condutor ,182 * III ,4 - M�dia 
+56300,Parar na �rea de cruzamento de vias ,Condutor ,182 * VII ,4 - M�dia 
+56491,Parar nos viadutos ,Condutor ,182 * VIII ,4 - M�dia 
+56492,Parar nas pontes ,Condutor ,182 * VIII ,4 - M�dia 
+56493,Parar nos t�neis ,Condutor ,182 * VIII ,4 - M�dia 
+56570,Parar na contram�o de dire��o ,Condutor ,182 * IX ,4 - M�dia 
+56650,Parar em local/hor�rio proibidos especificamente pela sinaliza��o ,Condutor ,182 * X ,4 - M�dia 
+56731,Parar  sobre faixa de pedestres na mudan�a de sinal luminoso ,Condutor ,183,4 - M�dia 
+56732,Parar sobre faixa de pedestres na mudan�a de sinal luminoso (fiscaliza��o eletr�nica) ,Condutor ,183,4 - M�dia 
+57030,Deixar de conservar o ve�culo na faixa a ele destinada pela sinaliza��o de regul ,Condutor ,185 * I ,4 - M�dia 
+57110,Deixar de conservar nas faixas da direita o ve�culo lento e de maior porte ,Condutor ,185 * II ,4 - M�dia 
+57461,Transitar em local/hor�rio n�o permitido pela regul estabelecida p/ autoridade ,Condutor ,187 * I ,4 - M�dia 
+57462,Transitar em local/hor�rio n�o permitido pela regulamenta��o - rod�zio ,Condutor ,187 * I ,4 - M�dia 
+57463,Transitar em local/hor�rio n�o permitido pela regulamenta��o - caminh�o ,Condutor ,187 * I ,4 - M�dia 
+57620,Transitar ao lado de outro ve�culo, interrompendo ou perturbando o tr�nsito ,Condutor ,188,4 - M�dia 
+58511,Deixar de deslocar c/anteced�ncia ve�c p/ faixa mais � esquerda qdo for manobrar ,Condutor ,197,4 - M�dia 
+58512,Deixar de deslocar c/anteced�ncia ve�c p/ faixa mais � direita qdo for manobrar ,Condutor ,197,4 - M�dia 
+58600,Deixar de dar passagem pela esquerda quando solicitado ,Condutor ,198,4 - M�dia 
+58780,Ultrapassar pela direita, salvo qdo ve�c da frente der sinal p/ entrar esquerda ,Condutor ,199,4 - M�dia 
+58940,Deixar de guardar a dist�ncia lateral de 1,50m ao passar/ultrapassar bicicleta ,Condutor ,201,4 - M�dia 
+61900,Entrar/sair �rea lindeira sem precau��o com a seguran�a de pedestres e ve�culos ,Condutor ,216,4 - M�dia 
+62030,Entrar/sair de fila de ve�culos estacionados sem dar pref a pedestres/ve�culos ,Condutor ,217,4 - M�dia 
+62540,Transitar em velocidade inferior � metade da m�xima da via, salvo faixa direita ,Condutor ,219,4 - M�dia 
+64080,Portar no ve�culo placas de identifica��o em desacordo c/ especif/modelo Contran ,Propriet�rio ,221,4 - M�dia 
+64240,Deixar de manter ligado em emerg�ncia o sistema ilum vermelha intermitente ainda que parado ,Condutor ,222,4 - M�dia 
+64750,Deixar de retirar qualquer objeto utilizado para sinaliza��o tempor�ria da via ,Condutor ,226,4 - M�dia 
+65480,Usar no ve�c alarme/aparelho produz som perturbe sossego p�b desac norma Contran ,Condutor ,229,4 - M�dia 
+67500,Conduzir o ve�c de carga c/ falta inscri��o da tara e demais previstas no CTB ,Propriet�rio ,230 * XXI ,4 - M�dia 
+68580,Transitar com o ve�culo com lota��o excedente ,Condutor ,231 * VII ,4 - M�dia 
+68661,Transitar efetuando transporte remunerado de pessoas qdo � licenciado p/esse fim ,Propriet�rio ,231 * VIII ,7 - Grav�ssima 
+68662,Transitar efetuando transporte remunerado de bens qdo n�o licenciado p/ esse fim ,Propriet�rio ,231 * VIII ,7 - Grav�ssima 
+68742,Transitar com o ve�culo desengrenado em declive ,Condutor ,231 * IX ,4 - M�dia 
+69550,Rebocar outro ve�culo com cabo flex�vel ou corda ,Condutor ,236,4 - M�dia 
+70562,Conduzir ciclo fazendo malabarismo ou equilibrando-se em uma roda ,Condutor ,244 * III c/c �1� ,4 - M�dia 
+70992,Conduzir ciclo sem segurar o guidom com ambas as m�os ,Condutor ,244 * VII c/c �1� ,4 - M�dia 
+71022,Conduzir ciclo transportando carga incompat�vel ,Condutor ,244 * VIII c/c �1� ,4 - M�dia 
+71100,Conduzir ciclo transportando passageiro fora da garupa/assento a ele destinado ,Condutor ,244 * �1� * a ,4 - M�dia 
+71291,Conduzir ciclo via de tr�ns r�pido ou rodovia salvo se houver acostam/fx pr�pria ,Condutor ,244 * �1� * b ,4 - M�dia 
+71292,Conduzir ciclomotor em via de tr�nsito r�pido ,Condutor ,244 * �2� ,4 - M�dia 
+71293,Conduzir ciclomotor em rodovia salvo se houver acostamento ou faixa pr�pria ,Condutor ,244 * �2� ,4 - M�dia 
+71370,Conduzir ciclo transportando crian�a s/ condi��o de cuidar pr�pria seguran�a ,Condutor ,244 * �1� * c ,4 - M�dia 
+72001,Deixar de conduzir pelo bordo pista em fila �nica ve�c tra��o/propuls�o humana ,Condutor ,247,4 - M�dia 
+72002,Deixar de conduzir pelo bordo da pista em fila �nica ve�culo de tra��o animal ,Condutor ,247,4 - M�dia 
+72261,Deixar de manter acesas � noite as luzes posi��o qdo o ve�culo estiver parado ,Condutor ,249,4 - M�dia 
+72340,Em movimento, deixar de manter acesa a luz baixa durante � noite ,Condutor ,250 * I * a ,4 - M�dia 
+72500,Em mov, deixar de manter acesa luz baixa ve�c transp coletivo faixa/pista exclusiva ,Condutor ,250 * I * c ,4 - M�dia 
+72690,Em movimento, deixar de manter acesa luz baixa do ciclomotor ,Condutor ,250 * I * d ,4 - M�dia 
+72770,Em movimento deixar de manter acesas luzes de posi��o sob chuva forte/neblina/cerra��o ,Condutor ,250 * II ,4 - M�dia 
+72850,Em movimento, deixar de manter  a placa traseira iluminada � noite ,Condutor ,250 * III ,4 - M�dia 
+72930,Utilizar o pisca-alerta, exceto em imobiliza��es ou situa��es de emerg�ncia ,Condutor ,251 * I ,4 - M�dia 
+73070,Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB ,Condutor ,251 * II ,4 - M�dia 
+73150,Dirigir o ve�culo com o bra�o do lado de fora ,Condutor ,252 * I ,4 - M�dia 
+73231,Dirigir o ve�culo transport pessoas � sua esquerda ou entre os bra�os e pernas ,Condutor ,252 * II ,4 - M�dia 
+73233,Dirigir o ve�culo transport volume � sua esquerda ou entre os bra�os e pernas ,Condutor ,252 * II ,4 - M�dia 
+73310,Dirigir o ve�culo com incapacidade f�sica ou mental tempor�ria ,Condutor ,252 * III ,4 - M�dia 
+73400,Dirigir o ve�culo usando cal�ado que n�o se firme nos p�s/comprometa utiliz pedais ,Condutor ,252 * IV ,4 - M�dia 
+73580,Dirigir o ve�culo com apenas uma das m�os, exceto quando permitido pelo CTB ,Condutor ,252 * V ,4 - M�dia 
+73661,Dirigir o ve�culo utilizando-se de fones nos ouvidos conec a aparelhagem sonora ,Condutor ,252 * VI ,4 - M�dia 
+73662,Dirigir ve�culo utilizando-se de telefone celular ,Condutor ,252 * VI ,4 - M�dia 
+74471,Conduzir bicicleta em passeios onde n�o seja permitida a circula��o desta ,Condutor ,255,4 - M�dia 
+74472,Conduzir bicicleta de forma agressiva ,Condutor ,255,4 - M�dia 
+74550,Transitar em velocidade superior � m�xima permitida em at� 20% ,Condutor ,218 * I ,4 - M�dia 
+52311,Atirar do ve�culo objetos ou subst�ncias ,Condutor ,172,4 - M�dia 
+51691,Dirigir sob a influ�ncia de �lcool ,Condutor ,165,7 - Grav�ssima 10 X 
+52400,Disputar corrida ,Condutor ,173,7 - Grav�ssima 10 X 
+52581,Promover na via competi��o esportiva sem permiss�o ,Propriet�rio ,174,7 - Grav�ssima 10 X 
+52582,Promover na via eventos organizados sem permiss�o ,Propriet�rio ,174,7 - Grav�ssima 10 X 
+52583,Promover na via exibi��o e demonstra��o de per�cia em manobra de ve�culo s/perm ,Propriet�rio ,174,7 - Grav�ssima 10 X 
+52661,Participar na via como condutor em competi��o sem permiss�o ,Condutor ,174,7 - Grav�ssima 10 X 
+52662,Participar na via como condutor em eventos organizados sem permiss�o ,Condutor ,174,7 - Grav�ssima 10 X 
+52663,Participar como condutor exib/demonst per�cia em manobra de veic, s/ permiss�o ,Condutor ,174,7 - Grav�ssima 10 X 
+52741,Utiliz ve�c demonst/exibir manobra perigosa mediante arrancada brusca ,Condutor ,175,7 - Grav�ssima 10 X 
+57970,For�ar passagem entre ve�cs trans sent opostos na imin�ncia realiz ultrapassagem ,Condutor ,191,7 - Grav�ssima 10 X 
+75790,Rec sub test, ex cl�n, per�c ou proc q perm cert infl �lc/sub psic for art. 277 ,Condutor ,165-A ,7 - Grav�ssima 10 X 
+56143,Parar na pista de rolamento das vias de tr�nsito r�pido ,Condutor ,182 * V ,5 - Grave 
+50100,Dirigir ve�culo sem possuir CNH/PPD/ACC ,Condutor ,162 * I ,7 - Grav�ssima 3 X 
+56144,Parar na pista de rolamento das demais vias dotadas de acostamento ,Condutor ,182 * V ,5 - Grave 
+50371,Dirigir ve�culo com CNH de categoria diferente da do ve�culo ,Condutor ,162 * III ,7 - Grav�ssima 2 X 
+56900,Transitar na faixa/pista da esquerda regul circula��o exclusiva determ ve�culo ,Condutor ,184 * II ,5 - Grave 
+57200,Transitar pela contram�o de dire��o em via com duplo sentido de circula��o ,Condutor ,186 * I ,5 - Grave 
+57890,Seguir ve�culo em serv urg�ncia devid identific p/ alarme sonoro/ilum vermelha ,Condutor ,190,5 - Grave 
+58000,Deixar guardar dist seguran�a lat/front entre seu ve�culo e demais e ao bordo pista ,Condutor ,192,5 - Grave 
+50372,Dirigir ve�culo com PPD de categoria diferente da do ve�culo ,Condutor ,162 * III ,7 - Grav�ssima 2 X 
+50610,Entregar ve�culo a pessoa sem CNH/PPD/ACC ,Propriet�rio ,163 c/c 162 * I ,7 - Grav�ssima 3 X 
+58270,Transitar em marcha r�, salvo na dist�ncia necess�ria a pequenas manobras ,Condutor ,194,5 - Grave 
+50881,Entregar ve�culo a pessoa com CNH de categoria diferente da do ve�culo ,Propriet�rio ,163 c/c 162 * III ,7 - Grav�ssima 2 X 
+58350,Desobedecer �s ordens emanadas da autorid compet de tr�nsito ou de seus agentes ,Condutor ,195,5 - Grave 
+50882,Entregar ve�culo a pessoa com PPD de categoria diferente da do ve�culo ,Propriet�rio ,163 c/c 162 * III ,7 - Grav�ssima 2 X 
+58431,Deixar de indicar c/ antec, med gesto de bra�o/luz indicadora, in�cio da marcha ,Condutor ,196,5 - Grave 
+51180,Permitir posse/condu��o do ve�culo a pessoa sem CNH/PPD/ACC ,Propriet�rio ,164 c/c 162 * I ,7 - Grav�ssima 3 X 
+51341,Permitir posse/condu��o ve�c a pessoa com CNH categoria diferente da do ve�culo ,Propriet�rio ,164 c/c 162 * III ,7 - Grav�ssima 2 X 
+51342,Permitir posse/condu��o ve�c a pessoa com PPD categoria diferente da do ve�culo ,Propriet�rio ,164 c/c 162 * III ,7 - Grav�ssima 2 X 
+58191,Transitar com o ve�culo em cal�adas, passeios ,Condutor ,193,7 - Grav�ssima 3 X 
+58192,Transitar com o ve�culo em ciclovias, ciclofaixas ,Condutor ,193,7 - Grav�ssima 3 X 
+58432,Deixar de indicar c/ antec, med gesto de bra�o/luz indicadora, manobra de parar ,Condutor ,196,5 - Grave 
+58193,Transitar com o ve�culo em ajardinamentos, gramados, jardins p�blicos ,Propriet�rio ,193,7 - Grav�ssima 3 X 
+58194,Transitar com o ve�culo em canteiros centrais/divisores de pista de rolamento ,Condutor ,193,7 - Grav�ssima 3 X 
+58433,Deixar de indicar c/ antec, med gesto de bra�o/luz indicadora, mudan�a dire��o ,Condutor ,196,5 - Grave 
+58195,Transitar com o ve�culo em ilhas, ref�gios ,Condutor ,193,7 - Grav�ssima 3 X 
+58434,Deixar de indicar c/ antec, med gesto de bra�o/luz indicadora, mudan�a de faixa ,Condutor ,196,5 - Grave 
+59750,Deixar de parar no acostamento � direita, p/ cruzar pista ou entrar � esquerda ,Condutor ,204,5 - Grave 
+60411,Executar opera��o de convers�o � direita em local proibido pela sinaliza��o ,Condutor ,207,5 - Grave 
+60412,Executar opera��o de convers�o � esquerda em local proibido pela sinaliza��o ,Condutor ,207,5 - Grave 
+60681,Transpor bloqueio vi�rio com ou sem sinaliza��o ou dispositivos auxiliares ,Condutor ,209,5 - Grave 
+60682,Deixar de adentrar �s �reas destinadas � pesagem de ve�culos ,Condutor ,209,5 - Grave 
+60683,Evadir-se para n�o efetuar o pagamento do ped�gio ,Condutor ,209,5 - Grave 
+60841,Ultrapassar ve�culos motorizados em fila, parados em raz�o de sinal luminoso ,Condutor ,211,5 - Grave 
+58196,Transitar com o ve�culo em marcas de canaliza��o ,Condutor ,193,7 - Grav�ssima 3 X 
+58197,Transitar com o ve�culo em acostamentos ,Condutor ,193,7 - Grav�ssima 3 X 
+74710,Transitar em velocidade superior � m�xima permitida em mais de 50% ,Condutor ,218 * III ,7 - Grav�ssima 3 X 
+50291,Dirigir ve�culo com CNH/PPD/ACC cassada ,Condutor ,162 * II ,7 - Grav�ssima 3 X 
+50292,Dirigir ve�culo com CNH/PPD/ACC com suspens�o do direito de dirigir ,Condutor ,162 * II ,7 - Grav�ssima 3 X 
+50701,Entregar ve�culo a pessoa com CNH/PPD/ACC cassada ,Propriet�rio ,163 c/c 162 * II ,7 - Grav�ssima 3 X 
+50702,Entregar ve�culo a pessoa com CNH/PPD/ACC com susp. do direito de dirigir ,Propriet�rio ,163 c/c 162 * II ,7 - Grav�ssima 3 X 
+51261,Permitir posse/condu��o do ve�culo a pessoa com CNH/PPD/ACC cassada ,Propriet�rio ,164 c/c 162 * II ,7 - Grav�ssima 3 X 
+52820,Deixar o cond envolvido em acidente, de prestar ou providenciar socorro a v�tima ,Condutor ,176 * I ,7 - Grav�ssima 5 X 
+52900,Deixar o cond envolvido em acid, de adotar provid p/ evitar perigo p/o tr�nsito ,Condutor ,176 * II ,7 - Grav�ssima 5 X 
+50450,Dirigir ve�culo com validade de CNH/PPD vencida h� mais de 30 dias ,Condutor ,162 * V ,7 - Grav�ssima 
+53040,Deixar o cond envolvido em acidente, de preservar local p/ trab policia/pericia ,Condutor ,176 * III ,7 - Grav�ssima 5 X 
+53120,Deixar o cond envolvido em acid, de remover o ve�c local qdo determ polic/agente ,Condutor ,176 * IV ,7 - Grav�ssima 5 X 
+53200,Deixar o cond envolvido em acid, de identificar-se policial e prestar inf p/o BO ,Condutor ,176 * V ,7 - Grav�ssima 5 X 
+59080,Ultrapassar pelo acostamento ,Condutor ,202 * I ,7 - Grav�ssima 5 X 
+59161,Ultrapassar  em interse��es ,Condutor ,202 * II ,7 - Grav�ssima 5 X 
+59162,Ultrapassar  em passagem de n�vel ,Condutor ,202 * II ,7 - Grav�ssima 5 X 
+59241,Ultrapassar pela contram�o nas curvas sem visibilidade suficiente ,Condutor ,203 * I ,7 - Grav�ssima 5 X 
+50531,Dirigir ve�culo sem usar lentes corretoras de vis�o ,Condutor ,162 * VI ,7 - Grav�ssima 
+59242,Ultrapassar pela contram�o nos aclives ou declives, sem visibilidade suficiente ,Condutor ,203 * I ,7 - Grav�ssima 5 X 
+59320,Ultrapassar pela contram�o nas faixas de pedestre ,Condutor ,203 * II ,7 - Grav�ssima 5 X 
+59401,Ultrapassar pela contram�o nas pontes ,Condutor ,203 * III ,7 - Grav�ssima 5 X 
+50532,Dirigir ve�culo sem usar aparelho auxiliar de audi��o ,Condutor ,162 * VI ,7 - Grav�ssima 
+59402,Ultrapassar pela contram�o nos viadutos ,Condutor ,203 * III ,7 - Grav�ssima 5 X 
+59403,Ultrapassar pela contram�o nos t�neis ,Condutor ,203 * III ,7 - Grav�ssima 5 X 
+59591,Ultrapassar pela contram�o ve�culo parado em fila junto sinal luminoso ,Condutor ,203 * IV ,7 - Grav�ssima 5 X 
+59593,Ultrapassar pela contram�o ve�culo parado em fila junto a cruzamento ,Condutor ,203 * IV ,7 - Grav�ssima 5 X 
+59594,Ultrapassar pela contram�o ve�c parado em fila junto qq impedimento � circula��o ,Condutor ,203 * IV ,7 - Grav�ssima 5 X 
+50533,Dirigir ve�culo sem usar aparelho auxiliar de pr�tese f�sica ,Condutor ,162 * VI ,7 - Grav�ssima 
+59670,Ultrapassar pela contram�o linha de divis�o de fluxos opostos, cont�nua amarela ,Condutor ,203 * V ,7 - Grav�ssima 5 X 
+50534,Dirigir ve�culo s/ adapta��es impostas na concess�o/renova��o licen�a conduzir ,Condutor ,162 * VI ,7 - Grav�ssima 
+50960,Entregar ve�culo a pessoa com CNH/PPD vencida h� mais de 30 dias ,Propriet�rio ,163 c/c 162 * V ,7 - Grav�ssima 
+51001,Entregar o ve�culo a pessoa sem usar lentes corretoras de vis�o ,Propriet�rio ,163 c/c 162 * VI ,7 - Grav�ssima 
+51002,Entregar o ve�culo a pessoa sem usar aparelho auxiliar de audi��o ,Propriet�rio ,163 c/c 162 * VI ,7 - Grav�ssima 
+51003,Entregar o ve�culo a pessoa sem aparelho de pr�tese f�sica ,Propriet�rio ,163 c/c 162 * VI ,7 - Grav�ssima 
+51004,Entregar ve�c pessoa s/ adapta��es impostas concess�o/renova��o licen�a conduzir ,Propriet�rio ,163 c/c 162 * VI ,7 - Grav�ssima 
+51420,Permitir posse/condu��o do ve�c a pessoa com CNH/PPD vencida h� mais de 30 dias ,Propriet�rio ,164 c/c 162 * V ,7 - Grav�ssima 
+51501,Permitir posse/condu��o do ve�culo a pessoa sem usar lentes corretoras de vis�o ,Propriet�rio ,164 c/c 162 * VI ,7 - Grav�ssima 
+51502,Permitir posse/condu��o do ve�culo a pessoa s/ usar aparelho auxiliar de audi��o ,Propriet�rio ,164 c/c 162 * VI ,7 - Grav�ssima 
+51503,Permitir posse/condu��o do ve�culo a pessoa sem usar aparelho de pr�tese f�sica ,Propriet�rio ,164 c/c 162 * VI ,7 - Grav�ssima 
+51504,Permitir posse/cond ve�c s/ adapta��es impostas concess�o/renova��o licen�a cond ,Propriet�rio ,164 c/c 162 * VI ,7 - Grav�ssima 
+51770,Confiar/entregar ve�c pess c/ estado f�sico/ps�quico s/ condi��es dirigir segur ,Propriet�rio ,166,7 - Grav�ssima 
+51930,Transportar crian�a sem observ�ncia das normas de seguran�a estabelecidas p/ CTB ,Condutor ,168,7 - Grav�ssima 
+52151,Dirigir amea�ando os pedestres que estejam atravessando a via p�blica ,Condutor ,170,7 - Grav�ssima 
+60842,Ultrapassar ve�culos motorizados em fila, parados em raz�o de cancela ,Condutor ,211,5 - Grave 
+60843,Ultrapassar ve�culos motorizados em fila parados em raz�o de bloqueio vi�rio parcial ,Condutor ,211,5 - Grave 
+60844,Ultrapassar ve�culos motorizados em fila, parados em raz�o de qualquer obst�culo ,Condutor ,211,5 - Grave 
+61140,Deixar de parar sempre que a marcha for interceptada por agrupamento de ve�culos ,Condutor ,213 * II ,5 - Grave 
+61570,Deixar de dar prefer�ncia a pedestre/veic � mot qdo iniciada travessia s/sinaliz ,Condutor ,214 * IV ,5 - Grave 
+61650,Deixar de dar prefer�ncia a pedestre/veic n�o mot atravessando a via transversal ,Condutor ,214 * V ,5 - Grave 
+61731,Deixar de dar prefer�ncia em interse��o � sinaliz, a ve�c circulando por rodovia ,Condutor ,215 * I * a ,5 - Grave 
+61732,Deixar de dar prefer�ncia em interse��o � sinaliz, ve�c circulando por rotat�ria ,Condutor ,215 * I * a ,5 - Grave 
+61733,Deixar de dar preferencia em interse��o n�o sinalizada, a ve�culo que vier da direita ,Condutor ,215 * I * b ,5 - Grave 
+61810,Deixar de dar prefer�ncia nas interse��es com sinaliza��o de D� a Prefer�ncia ,Condutor ,215 * II ,5 - Grave 
+62700,Deixar de reduzir a veloc onde o tr�nsito esteja sendo controlado pelo agente ,Condutor ,220 * II ,5 - Grave 
+62891,Deixar de reduzir a velocidade do ve�culo ao aproximar-se da guia da cal�ada ,Condutor ,220 * III ,5 - Grave 
+62892,Deixar de reduzir a velocidade do ve�culo ao aproximar-se do acostamento ,Condutor ,220 * III ,5 - Grave 
+62970,Deixar de reduzir velocidade do ve�culo ao aproximar-se interse��o � sinalizada ,Condutor ,220 * IV ,5 - Grave 
+55090,Estacionar no ponto de embarque/desembarque de passageiros transporte coletivo ,Condutor ,181 * XIII ,4 - M�dia 
+55250,Estacionar na contram�o de dire��o ,Condutor ,181 * XV ,4 - M�dia 
+64160,Confec/distribuir/colocar ve�c pr�prio/terceiro placa identif desacordo Contran ,Propriet�rio ,221, par�grafo �nico ,4 - M�dia 
+63000,Deixar reduzir velocidade nas vias rurais cuja faixa dom�nio n�o esteja cercada ,Condutor ,220 * V ,5 - Grave 
+68313,Transitar com o ve�culo com excesso de peso - PBT/PBTC e Por Eixo ,Emb/Transp ,231 * V ,4 - M�dia 
+68312,Transitar com o ve�culo com excesso de peso - Por Eixo ,Emb/Transp ,231 * V ,4 - M�dia 
+68311,Transitar com o ve�culo com excesso de peso PBT/PBTC ,Emb/Transp ,231 * V ,4 - M�dia 
+63190,Deixar de reduzir a velocidade nos trechos em curva de pequeno raio ,Condutor ,220 * VI ,5 - Grave 
+68741,Transitar com o ve�culo desligado em declive ,Condutor ,231 * IX ,4 - M�dia 
+68820,Transitar com o ve�culo excedendo a CMT em at� 600 kg ,Propriet�rio ,231 * X ,4 - M�dia 
+72262,Deixar de manter acesas � noite as luzes de posi��o veic fazendo carga/descarga ,Condutor ,249,4 - M�dia 
+73232,Dirigir o ve�culo transport animais � sua esquerda ou entre os bra�os e pernas ,Condutor ,252 * II ,4 - M�dia 
+52152,Dirigir amea�ando os demais ve�culos ,Condutor ,170,7 - Grav�ssima 
+54281,Estacionar na pista de rolamento das estradas ,Condutor ,181 * V ,7 - Grav�ssima 
+54282,Estacionar na pista de rolamento das rodovias ,Condutor ,181 * V ,7 - Grav�ssima 
+54283,Estacionar na pista de rolamento das vias de tr�nsito r�pido ,Condutor ,181 * V ,7 - Grav�ssima 
+54284,Estacionar na pista de rolamento das vias dotadas de acostamento ,Condutor ,181 * V ,7 - Grav�ssima 
+57380,Transitar pela contram�o de dire��o em via c/ sinaliza��o de regul sentido �nico ,Condutor ,186 * II ,7 - Grav�ssima 
+57701,Deixar de dar passagem a ve�c precedido de batedores devidamente identificados ,Condutor ,189,7 - Grav�ssima 
+57702,Deixar de dar passagem a ve�c socorro inc�ndio/salv serv urg�ncia devid identif ,Condutor ,189,7 - Grav�ssima 
+57703,Deixar de dar passagem a ve�c de pol�cia em servi�o de urg�ncia devid identif ,Condutor ,189,7 - Grav�ssima 
+57704,Deixar de dar passagem a ve�c de opera��o e fiscaliza��o de tr�nsito devid ident ,Condutor ,189,7 - Grav�ssima 
+57705,Deixar de dar passagem a ambul�ncia em servi�o de urg�ncia devid identificada ,Condutor ,189,7 - Grav�ssima 
+58860,Ultrap pela direita ve�c transp colet/escolar parado para emb/desemb passageiros ,Condutor ,200,7 - Grav�ssima 
+59910,Executar opera��o de retorno em locais proibidos pela sinaliza��o ,Condutor ,206 * I ,7 - Grav�ssima 
+60091,Executar opera��o de retorno nas curvas ,Condutor ,206 * II ,7 - Grav�ssima 
+60092,Executar opera��o de retorno nos aclives ou declives ,Condutor ,206 * II ,7 - Grav�ssima 
+60093,Executar opera��o de retorno nas pontes ,Condutor ,206 * II ,7 - Grav�ssima 
+60094,Executar opera��o de retorno nos viadutos ,Condutor ,206 * II ,7 - Grav�ssima 
+60095,Executar opera��o de retorno nos t�neis ,Condutor ,206 * II ,7 - Grav�ssima 
+60171,Executar opera��o de retorno passando por cima de cal�ada, passeio ,Condutor ,206 * III ,7 - Grav�ssima 
+60172,Executar opera��o de retorno passando por cima de ilha, ref�gio ,Condutor ,206 * III ,7 - Grav�ssima 
+60173,Executar opera��o de retorno passando por cima de ajardinamento ,Condutor ,206 * III ,7 - Grav�ssima 
+60174,Executar opera��o de retorno passando por cima de canteiro de divisor de pista ,Condutor ,206 * III ,7 - Grav�ssima 
+60175,Executar opera��o de retorno passando por cima de faixa de pedestres ,Condutor ,206 * III ,3 - Leve 
+60176,Executar opera��o de retorno passando por cima de faixa de ve�c n�o motorizados ,Condutor ,206 * III ,7 - Grav�ssima 
+60250,Executar retorno nas interse��es, entrando na contram�o da via transversal ,Condutor ,206 * IV ,7 - Grav�ssima 
+60330,Executar retorno c/preju�zo da circula��o/seguran�a ainda que em local permitido ,Condutor ,206 * V ,7 - Grav�ssima 
+60501,Avan�ar o sinal vermelho do sem�foro ,Condutor ,208,7 - Grav�ssima 
+60502,Avan�ar o sinal de parada obrigat�ria ,Condutor ,208,7 - Grav�ssima 
+60503,Avan�ar o sinal vermelho do sem�foro - fiscaliza��o eletr�nica ,Condutor ,208,7 - Grav�ssima 
+60760,Transpor bloqueio vi�rio policial ,Condutor ,210,7 - Grav�ssima 
+60920,Deixar de parar o ve�culo antes de transpor linha f�rrea ,Condutor ,212,7 - Grav�ssima 
+61060,Deixar de parar sempre que a marcha for interceptada por agrupamento de pessoas ,Condutor ,213 * I ,7 - Grav�ssima 
+61220,Deixar de dar prefer�ncia a pedestre/veic � motorizado na faixa a ele destinada ,Condutor ,214 * I ,7 - Grav�ssima 
+61300,Deixar de dar prefer�ncia a pedestre/veic � mot que � haja conclu�do a travessia ,Condutor ,214 * II ,7 - Grav�ssima 
+61490,Deixar de dar prefer�ncia a pedestre port defici�ncia f�s/crian�a/idoso/gestante ,Condutor ,214 * III ,7 - Grav�ssima 
+62620,Deixar de reduzir a veloc qdo se aproximar de passeata/aglomera��o/desfile/etc ,Condutor ,220 * I ,7 - Grav�ssima 
+63941,Deixar de reduzir a velocidade nas proximidades de escolas ,Condutor ,220 * XIV ,7 - Grav�ssima 
+63942,Deixar de reduzir a velocidade nas proximidades de hospitais ,Condutor ,220 * XIV ,7 - Grav�ssima 
+63943,Deixar de reduzir veloc na proxim esta��o embarque/desembarque passageiros ,Condutor ,220 * XIV ,7 - Grav�ssima 
+63944,Deixar de reduzir veloc onde haja intensa movimenta��o de pedestres ,Condutor ,220 * XIV ,7 - Grav�ssima 
+65561,Conduzir o ve�culo com o lacre de identifica��o violado/falsificado ,Propriet�rio ,230 * I ,7 - Grav�ssima 
+65562,Conduzir o ve�culo com a inscri��o do chassi violada/falsificada ,Propriet�rio ,230 * I ,7 - Grav�ssima 
+65563,Conduzir o ve�culo com o selo violado/falsificado ,Propriet�rio ,230 * I ,7 - Grav�ssima 
+65564,Conduzir o ve�culo com a placa violada/falsificada ,Propriet�rio ,230 * I ,7 - Grav�ssima 
+65565,Conduzir o ve�culo com qualquer outro elem de identifica��o violado/falsificado ,Propriet�rio ,230 * I ,7 - Grav�ssima 
+65640,Conduzir o ve�culo transportando passageiros em compartimento de carga ,Condutor ,230 * II ,7 - Grav�ssima 
+65720,Conduzir o ve�culo com dispositivo anti-radar ,Propriet�rio ,230 * III ,7 - Grav�ssima 
+65800,Conduzir o ve�culo sem qualquer uma das placas de identifica��o ,Propriet�rio ,230 * IV ,7 - Grav�ssima 
+65991,Conduzir o ve�culo que n�o esteja registrado ,Propriet�rio ,230 * V ,7 - Grav�ssima 
+65992,Conduzir o ve�culo registrado que n�o esteja devidamente licenciado ,Propriet�rio ,230 * V ,7 - Grav�ssima 
+66020,Conduzir o ve�culo com qualquer uma das placas sem legibilidade e visibilidade ,Propriet�rio ,230 * VI ,7 - Grav�ssima 
+67770,Transitar com o ve�culo danificando a via, suas instala��es e equipamentos ,Condutor ,231 * I ,7 - Grav�ssima 
+67851,Transitar com ve�culo derramando a carga que esteja transportando ,Condutor ,231 * II * a ,7 - Grav�ssima 
+67852,Transitar com ve�culo lan�ando a carga que esteja transportando ,Condutor ,231 * II * a ,7 - Grav�ssima 
+67853,Transitar com ve�culo arrastando a carga que esteja transportando ,Condutor ,231 * II * a ,7 - Grav�ssima 
+67930,Transitar com ve�c derramando/lan�ando combust�vel/lubrif que esteja utilizando ,Condutor ,231 * II * b ,7 - Grav�ssima 
+68070,Transitar c/ve�c derraman/lan�ando/arrastando objeto possa acarretar risco acid ,Condutor ,231 * II * c ,7 - Grav�ssima 
+69040,Transitar com o ve�culo excedendo a CMT acima de 1.000 kg ,Propriet�rio ,231 * X ,7 - Grav�ssima 
+69391,Falsificar ou adulterar documento de habilita��o ,Condutor ,234,7 - Grav�ssima 
+69392,Falsificar ou adulterar documento de identifica��o do ve�culo ,Condutor ,234,7 - Grav�ssima 
+69710,Recusar-se a entregar CNH/CRV/CRLV/ outros documentos ,Condutor ,238,7 - Grav�ssima 
+69800,Retirar do local ve�culo legalmente retido para regulariza��o, sem permiss�o ,Condutor ,239,7 - Grav�ssima 
+63270,Deixar de reduzir velocidade ao aproximar local sinaliz advert de obras/trabalhadores ,Condutor ,220 * VII ,5 - Grave 
+63350,Deixar de reduzir a velocidade sob chuva/neblina/cerra��o/ventos fortes ,Condutor ,220 * VIII ,5 - Grave 
+63430,Deixar de reduzir a velocidade quando houver m� visibilidade ,Condutor ,220 * IX ,5 - Grave 
+63510,Deixar de reduzir velocidade quando pavimento se apresentar escorreg/defeituoso/avariado ,Condutor ,220 * X ,5 - Grave 
+63600,Deixar de reduzir a velocidade � aproxima��o de animais na pista ,Condutor ,220 * XI ,5 - Grave 
+63780,Deixar de reduzir a velocidade de forma compat�vel com a seguran�a, em declive ,Condutor ,220 * XII ,5 - Grave 
+63860,Deixar de reduzir velocidade de forma compat�vel c/ seguran�a ao ultrapassar ciclista ,Condutor ,220 * XIII ,5 - Grave 
+64321,Transitar com farol desregulado perturbando vis�o outro condutor ,Condutor ,223,5 - Grave 
+70131,Fazer falsa declara��o de domic�lio para fins de registro/licenciamento ,Propriet�rio ,242,7 - Grav�ssima 
+70132,Fazer falsa declara��o de domic�lio para fins de habilita��o ,Condutor ,242,7 - Grav�ssima 
+70301,Conduzir motocicleta, motoneta e ciclomotor sem capacete de seguran�a ,Condutor ,244 * I ,7 - Grav�ssima 
+70303,Conduzir motocicleta, motoneta e ciclomotor sem vestu�rio aprovado pelo Contran ,Condutor ,244 * I ,7 - Grav�ssima 
+70481,Conduzir motocicleta, motoneta e ciclomotor transportando passageiro s/ capacete ,Condutor ,244 * II ,7 - Grav�ssima 
+70483,Conduzir motocicleta/motoneta/ciclomotor transportando pas. fora do assento ,Condutor ,244 * II ,7 - Grav�ssima 
+70561,Conduzir motoc/moton/ciclomotor fazendo malabarismo/equilibrando-se em uma roda ,Condutor ,244 * III ,7 - Grav�ssima 
+70640,Conduzir motocicleta, motoneta e ciclomotor com os far�is apagados ,Condutor ,244 * IV ,7 - Grav�ssima 
+64322,Transitar com o facho de luz alta perturbando vis�o outro condutor ,Condutor ,223,5 - Grave 
+70721,Conduzir motocicleta/motoneta/ciclomotor transportando crian�a menor de 7 anos ,Condutor ,244 * V ,7 - Grav�ssima 
+70722,Conduzir motoc/moton/ciclom transp crian�a s/ condi��o cuidar pr�pria seguran�a ,Condutor ,244 * V ,7 - Grav�ssima 
+73740,Bloquear a via com ve�culo ,Condutor ,253,7 - Grav�ssima 
+64591,Deixar de sinalizar via p/ tornar vis�vel local qdo tiver remover ve�c da pista ,Condutor ,225*I ,5 - Grave 
+64592,Deixar de sinalizar a via p/ tornar vis�vel o local qdo permanecer acostamento ,Condutor ,225*I ,5 - Grave 
+64670,Deixar de sinalizar a via p/ tornar vis�vel o local qdo a carga for derramada ,Condutor ,225*II ,5 - Grave 
+65300,Usar no ve�culo equip c/ som em volume/freq��ncia n�o autorizados pelo Contran ,Condutor ,228,5 - Grave 
+66101,Conduzir o ve�culo com a cor alterada ,Propriet�rio ,230*VII ,5 - Grave 
+66102,Conduzir o ve�culo com caracter�stica alterada ,Propriet�rio ,230*VII ,5 - Grave 
+66290,Conduzir ve�culo s/ ter sido submetido � inspe��o seg veicular, qdo obrigat�ria ,Propriet�rio ,230 * VIII ,5 - Grave 
+66371,Conduzir o ve�culo sem equipamento obrigat�rio ,Propriet�rio ,230*IX ,5 - Grave 
+73820,� proibido ao pedestre permanecer/andar pista, exceto p/ cruz�-las onde permitido ,Pedestre ,254 * I ,3 - Leve 50% 
+66372,Conduzir o ve�culo com equipamento obrigat�rio ineficiente/inoperante ,Propriet�rio ,230 * IX ,5 - Grave 
+66450,Conduzir o ve�culo com equip obrigat�rio em desacordo com o estab pelo Contran ,Propriet�rio ,230 * X ,5 - Grave 
+66531,Conduzir o ve�culo com descarga livre ,Propriet�rio ,230 * XI ,5 - Grave 
+66532,Conduzir o ve�culo com silenciador de motor defeituoso/deficiente/inoperante ,Propriet�rio ,230 * XI ,5 - Grave 
+66610,Conduzir o ve�culo com equipamento ou acess�rio proibido ,Propriet�rio ,230 * XII ,5 - Grave 
+66700,Conduzir o ve�culo c/ equip do sistema de ilumina��o e de sinaliza��o alterados ,Propriet�rio ,230 * XIII ,5 - Grave 
+75950,Dirigir ve�culo realizando cobran�a de tarifa com ve�culo em movimento ,Condutor ,252*II ,4 - M�dia 
+66880,Conduzir ve�culo c/ registrador instan inalt de velocidade/tempo viciado/defeituoso ,Propriet�rio ,230 * XIV ,5 - Grave 
+66961,Conduzir c/ inscr/adesivo/legenda/s�mbolo afixado p�ra-brisa e extens�o traseira ,Propriet�rio ,230 * XV ,5 - Grave 
+66962,Conduzir c/ inscr/adesivo/legenda/s�mbolo pintado p�ra-brisa e extens�o traseira ,Propriet�rio ,230 * XV ,5 - Grave 
+67000,Conduzir ve�c com vidro total/parcialmente coberto por pel�cula, pain�is/pintura ,Propriet�rio ,230 * XVI ,5 - Grave 
+67180,Conduzir o ve�culo com cortinas ou persianas fechadas ,Propriet�rio ,230 * XVII ,5 - Grave 
+67261,Conduzir o ve�culo em mau estado de conserva��o, comprometendo a seguran�a ,Propriet�rio ,230 * XVIII ,5 - Grave 
+67262,Conduzir o ve�culo reprovado na avalia��o de inspe��o de seguran�a ,Propriet�rio ,230 * XVIII ,5 - Grave 
+67263,Conduzir o ve�culo reprovado na avalia��o de emiss�o de poluentes e ru�do ,Propriet�rio ,230 * XVIII ,5 - Grave 
+67340,Conduzir o ve�culo sem acionar o limpador de p�ra-brisa sob chuva ,Propriet�rio ,230 * XIX ,5 - Grave 
+67420,Conduzir o ve�culo sem portar a autoriza��o para condu��o de escolares ,Propriet�rio ,230 * XX ,7 - Grav�ssima 5 X 
+68150,Transitar com ve�culo produzindo fuma�a, gases ou part�culas em desac c/ Contran ,Propriet�rio ,231 * III ,5 - Grave 
+68231,Transitar c/ ve�c e/ou carga c/ dimens�es superiores limite legal s/ autoriza��o ,Propriet�rio ,231 * IV ,5 - Grave 
+68232,Transitar c/ ve�c e/ou carga c/ dimens�es superiores est p/sinaliza��o s/autoriz ,Condutor ,231 * IV ,5 - Grave 
+68401,Transitar em desacordo c/ autoriza��o expedida p/ve�culo c/ dimens�es excedentes ,Propriet�rio ,231 * VI ,5 - Grave 
+68402,Transitar com autoriza��o vencida, expedida p/ ve�culo c/ dimens�es excedentes ,Condutor ,231 * VI ,5 - Grave 
+68900,Transitar com o ve�culo excedendo a CMT entre 601 e 1.000 kg ,Propriet�rio ,231 * X ,5 - Grave 
+69471,Conduzir pessoas nas partes externas do ve�culo ,Condutor ,235,5 - Grave 
+69472,Conduzir animais nas partes externas do ve�culo ,Condutor ,235,5 - Grave 
+69473,Conduzir carga nas partes externas do ve�culo ,Condutor ,235,5 - Grave 
+70800,Conduzir motocicleta, motoneta e ciclomotor rebocando outro ve�culo ,Condutor ,244 * VI ,5 - Grave 
+70991,Conduzir motocicleta/motoneta/ciclomotor sem segurar o guidom com ambas as m�os ,Condutor ,244 * VII ,5 - Grave 
+71021,Conduzir motocicleta, motoneta e ciclomotor transportando carga incompat�vel ,Condutor ,244 * VIII ,5 - Grave 
+71023,Conduzir motoc/moton/ transportando carga em desacordo c/ � 2� do Art 139-A CTB ,Condutor ,244 * VIII ,5 - Grave 
+72180,Transportar em ve�c destinado transp passageiros carga excedente desac art.109 ,Condutor ,248,5 - Grave 
+74630,Transitar em velocidade superior � m�xima permitida em mais de 20% at� 50% ,Condutor ,218 * II ,5 - Grave 
+75521,Conduzir motoc/moton/ efetuando transp remun mercadoria desac c/ art 139-A CTB ,Condutor ,244 * IX ,5 - Grave 
+75522,Conduzir motoc/moton/ efet transp remun desac normas ativid profic mototaxistas ,Condutor ,244 * IX ,5 - Grave 
+75600,Conduzir ve�c de transp passag ou carga em desacordo c/ as cond do art 67-A CTB ,Condutor ,230, XXIII ,5 - Grave 
+69630,Trans com ve�culo desac c/especifica��o/falta de inscr/simbologia necess�ria identif ,Propriet�rio ,237,5 - Grave 
+69980,Deixar respons�vel de promover baixa registro de ve�c irrecuper�vel/desmontado ,Propriet�rio ,240,5 - Grave 
+70210,Deixar seguradora de comunicar ocorr�ncia perda total ve�c e devolver placas/doc ,P. jur�dica ,243,5 - Grave 
+71450,Utilizar a via para dep�sito de mercadorias, materiais ou equipamentos ,PF ou PJ ,245,4 - M�dia 
+51262,Permitir posse/condu��o ve�c pessoa com CNH/PPD/ACC c/ susp. direito de dirigir ,Propriet�rio ,164 c/c 162 * II ,7 - Grav�ssima 3 X 
+51692,Dirigir sob influ�ncia de qualquer outra subst�ncia que determine depend�ncia ,Condutor ,165,7 - Grav�ssima 10 X 
+58198,Transitar com o ve�culo em passarelas ,Condutor ,193,7 - Grav�ssima 3 X 
+59592,Ultrapassar pela contram�o ve�culo parado em fila junto a cancela/porteira ,Condutor ,203 * IV ,7 - Grav�ssima 3 X 
+71531,Deixar de sinalizar obst�culo � circula��o/seguran�a cal�ada/pista-s/agravamento ,PF ou PJ ,246,7 - Grav�ssima 
+71532,Obstaculizar a via indevidamente-s/agravamento ,PF ou PJ ,246,7 - Grav�ssima 
+71611,Deixar de sinalizar obst�culo circula��o/seguran�a cal�ada/pista-agravamento 2X ,PF ou PJ ,246,7 - Grav�ssima 3 X 
+71612,Obstaculizar a via indevidamente-agravamento 2X ,PF ou PJ ,246,7 - Grav�ssima 3 X 
+71701,Deixar de sinalizar obst�culo circula��o/seguran�a cal�ada/pista-agravamento 3X ,PF ou PJ ,246,7 - Grav�ssima 3 X 
+71702,Obstaculizar a via indevidamente-agravamento 3X ,PF ou PJ ,246,7 - Grav�ssima 3 X 
+71881,Deixar de sinalizar obst�culo circula��o/seguran�a cal�ada/pista-agravamento 4X ,PF ou PJ ,246,7 - Grav�ssima 5 X 
+71882,Obstaculizar a via indevidamente-agravamento 4X ,PF ou PJ ,246,7 - Grav�ssima 5 X 
+71961,Deixar de sinalizar obst�culo circula��o/seguran�a cal�ada/pista-agravamento 5X ,PF ou PJ ,246,7 - Grav�ssima 5 X 
+71962,Obstaculizar a via indevidamente-agravamento 5X ,PF ou PJ ,246,7 - Grav�ssima 5 X 
+75441,Falta de escritura��o livro registro entrada/sa�da e de uso placa de experi�ncia ,PF ou PJ ,330 * � 5� ,7 - Grav�ssima 
+75443,Fraude escritura��o livro registro entrada/sa�da e de uso placa de experi�ncia ,PF ou PJ ,330 * � 5� ,7 - Grav�ssima 
+75444,Recusa da exibi��o do livro registro entrada/sa�da e de uso placa de experi�ncia ,PF ou PJ ,330 * � 5� ,7 - Grav�ssima 
+7587,na faixa ou via de tr�nsito exclusivo, regulamentada com circula��o destinada aos ve�culos de transporte p�blico coletivo de passageiros, salvo casos de for�a maior e com autoriza��o do poder p�blico competente: ,Condutor ,Art.184 ,7 - Grav�ssima 
+75442,Atraso escritura��o livro registro entrada/sa�da e de uso placa de experi�ncia ,PF ou PJ ,330 * � 5� ,7 - Grav�ssima 
+75870,Transitar na faixa ou via exclusiva regulam. p/ transp. p�bl. coletivo passag. ,Condutor ,184, III  ,7 - Grav�ssima 
+52742,Utiliz ve�c dem/exibir manob perig med derrap/frenag c/desliz/arrast pneus ,Condutor ,175,7 - Grav�ssima 10 X 
+67690,Conduzir ve�c c/ defeito no sist de ilumina��o, sinaliz ou l�mpadas queimadas ,Propriet�rio ,230, XXII ,4 - M�dia 
+69201,Deixar de efetuar registro do ve�culo em 30 dias, qdo for transf a propriedade ,Propriet�rio ,233 c/c 123, I ,5 - Grave 
+69202,Deixar de efetuar reg do ve�c em 30 dias, qdo mudar o munic de domicilio/resid ,Propriet�rio ,233 c/c 123, II ,5 - Grave 
+69203,Deixar de efetuar reg de ve�c em 30 dias, qdo for alterada qquer caract do veic ,Propriet�rio ,233 c/c 123, III ,5 - Grave 
+69204,Deixar de efetuar registro de ve�culo em 30 dias, qdo houver mudan�a de categoria ,Propriet�rio ,233 c/c 123, IV ,5 - Grave 
+76171,Usar qualquer ve�culo para, deliberadamente, interromper a circula��o na via sem autoriza��o do �rg�o ,Condutor ,253-A ,7 - Grav�ssima 20 X 
+76172,Usar qualquer ve�culo para, deliberadamente, restringir a circula��o na via sem autoriza��o do �rg�o ,Condutor ,253-A ,7 - Grav�ssima 20 X 
+76173,Usar qualquer ve�culo para, deliberadamente, perturbar a circula��o na via sem autoriza��o do org�o ,Condutor ,253-A ,7 - Grav�ssima 20 X 
+74801,Aprovar proj edifica��o p�lo atrativo tr�nsito s/ anu�ncia �rg�o/entid tr�nsito ,Serv. p�blico ,93 c/c 95, � 4�  ,- 
+74802,Aprovar proj edifica��o p�lo atrativo tr�ns s/ estacion/indica��o vias de acesso ,Serv. p�blico ,93 c/c 95, � 4� ,- 
+74980,� sinalizar devida/imed obst�culo � circul/seguran�a ve�c/pedestre pista/cal�ada ,Serv. p�blico ,94,- 
+75010,Utilizar ondula��o transversal/sonorizador fora padr�o/crit�rio estab p/ Contran ,Serv. p�blico ,94, par�grafo �nico ,- 
+75101,Iniciar obra perturbe/interrompa circula��o/seguran�a ve�c/pedestres s/permiss�o ,Propriet�rio ,95,- 
+75102,Iniciar evento perturbe/interrompa circula�/seguran�a ve�c/pedestres s/permiss�o ,Propriet�rio ,95,- 
+75281,N�o sinalizar a execu��o ou manuten��o da obra ,Propriet�rio ,95, � 1� ,- 
+75282,N�o sinalizar a execu��o ou manuten��o do evento ,Propriet�rio ,95, � 1� ,- 
+75360,N�o avisar comunidade c/ 48h antec interdi��o via indicando caminho alternativo ,Serv. p�blico ,95, � 2� ,- 
+50020,Multa, por n�o identifica��o do condutor infrator, imposta � pessoa jur�dica ,Propriet�rio ,257, � 8� ,- 
+72421,Em movimento de dia, deixar de manter acesa luz baixa t�nel com ilumina��o p�blica. ,Condutor ,250, I, b ,4 - M�dia 
+72422,Em movimento de dia, deixar de manter acesa luz baixa nas rodovias. ,Condutor ,250, I, b ,4 - M�dia 
+76251,Estacionar nas vagas reserv �s pess c/ defici�ncia, s/ credencial ,Condutor ,181, XX ,7 - Grav�ssima 
+76252,Estacionar nas vagas reserv a idosos, s/ credencial ,Condutor ,181, XX ,7 - Grav�ssima 
+76331,Dirigir ve�culo segurando telefone celular ,Condutor ,252, � �nico ,7 - Grav�ssima 
+76332,Dirigir ve�culo manuseando telefone celular ,Condutor ,252, � �nico ,7 - Grav�ssima 

@@ -1,3 +1,5 @@
+# mix run priv/repo/seeds.exs
+
 require Logger
 
 alias InfractionsControl.Repo

@@ -7,7 +7,7 @@ defmodule InfractionsControl.Driver do
 
   import Ecto.Changeset
 
-  alias InfractionsControl.City
+  alias InfractionsControl.{City, Infraction}
 
   @primary_key {:id, :binary_id, autogenerate: true}
   @foreign_key_type :binary_id
@@ -25,6 +25,7 @@ defmodule InfractionsControl.Driver do
     field :phone_number, :string
 
     belongs_to :city, City
+    has_many :infractions, Infraction, on_delete: :nothing
 
     timestamps()
   end

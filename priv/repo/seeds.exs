@@ -9,52 +9,23 @@ alias InfractionsControl.Cities.Import, as: ImportCities
 alias InfractionsControl.InfractionTypes.Import, as: ImportInfractionTypes
 alias InfractionsControl.FinancialBanks.Import, as: ImportFinancialBanks
 
-case Repo.exists?(InfractionsControl.Country) do
-  true ->
-    Logger.info("Countries is already imported...")
+already_imported_logger = fn entity -> Logger.info("#{entity} is already imported...") end
 
-  false ->
-    Logger.info("Importing countries...")
-    ImportCountries.call()
-    Logger.info("Countries created successfully!")
+import_logger = fn entity_name, import_module ->
+  Logger.info("Importing #{entity_name}...")
+  import_module.call()
+  Logger.info("#{entity_name} created successfully!")
 end
 
-case Repo.exists?(InfractionsControl.State) do
-  true ->
-    Logger.info("States is already imported...")
-
-  false ->
-    Logger.info("Importing states...")
-    ImportStates.call()
-    Logger.info("States created successfully!")
+run_import = fn entity_module, entity_name, import_module ->
+  case Repo.exists?(entity_module) do
+    true -> already_imported_logger.(entity_name)
+    false -> import_logger.(entity_name, import_module)
+  end
 end
 
-case Repo.exists?(InfractionsControl.City) do
-  true ->
-    Logger.info("Cities is already imported...")
-
-  false ->
-    Logger.info("Importing cities...")
-    ImportCities.call()
-    Logger.info("Cities created successfully!")
-end
-
-case Repo.exists?(InfractionsControl.InfractionType) do
-  true ->
-    Logger.info("Infraction types is already imported...")
-
-  false ->
-    Logger.info("Importing infraction types...")
-    ImportInfractionTypes.call()
-    Logger.info("Infraction types created successfully!")
-end
-
-case Repo.exists?(InfractionsControl.FinancialBank) do
-  true ->
-    Logger.info("Financial banks is already imported...")
-
-  false ->
-    Logger.info("Importing financial banks...")
-    ImportFinancialBanks.call()
-    Logger.info("Financial banks created successfully!")
-end
+run_import.(InfractionsControl.Country, "Countries", ImportCountries)
+run_import.(InfractionsControl.State, "States", ImportStates)
+run_import.(InfractionsControl.City, "Cities", ImportCities)
+run_import.(InfractionsControl.InfractionType, "Infraction Types", ImportInfractionTypes)
+run_import.(InfractionsControl.FinancialBank, "Financial Banks", ImportFinancialBanks)

@@ -7,6 +7,8 @@ defmodule InfractionsControl.Vehicle do
 
   import Ecto.Changeset
 
+  alias InfractionsControl.Infraction
+
   @primary_key {:id, :binary_id, autogenerate: true}
   @required_attrs [:code, :fabrication_year, :renavam, :price]
   @non_required_attrs [:color, :model]
@@ -20,6 +22,8 @@ defmodule InfractionsControl.Vehicle do
     field :renavam, :string
     field :price, :decimal
 
+    has_many :infractions, Infraction, on_delete: :nothing
+
     timestamps()
   end
 
@@ -28,6 +32,5 @@ defmodule InfractionsControl.Vehicle do
     |> cast(attrs, @required_attrs ++ @non_required_attrs)
     |> validate_required(@required_attrs)
     |> unique_constraint([:code])
-    |> validate_inclusion(:price, 1..5_000_000)
   end
 end

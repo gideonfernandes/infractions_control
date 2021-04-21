@@ -5,8 +5,14 @@ defmodule InfractionsControl.Cities.Import do
 
   alias InfractionsControl.{City, Repo, State}
 
-  def call(filepath \\ "priv/repo/seeds/fixtures/cities.csv") do
-    filepath
+  def call(filenames \\ ["part_1.csv", "part_2.csv", "part_3.csv"]) do
+    filenames
+    |> Task.async_stream(&import_file/1, timeout: 20_000)
+    |> Stream.run()
+  end
+
+  defp import_file(filename) do
+    "priv/repo/seeds/fixtures/cities/#{filename}"
     |> File.stream!()
     |> CSV.decode(headers: true, strip_fields: true)
     |> Enum.to_list()

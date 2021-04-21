@@ -14,11 +14,10 @@ defmodule InfractionsControl.InfractionType do
   @derive {Jason.Encoder, only: [:id] ++ @required_attrs}
 
   schema "infraction_types" do
-    field :article, :string
+    field :article_or_gravity_points, :string
     field :code, :string
     field :ctb, :string
     field :description, :string
-    field :article_or_gravity_points, :string
     field :responsable, :string
 
     has_many :infractions, Infraction, on_delete: :delete_all

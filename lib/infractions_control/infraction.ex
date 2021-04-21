@@ -6,16 +6,18 @@ defmodule InfractionsControl.Infraction do
   use Ecto.Schema
   import Ecto.Changeset
 
-  alias InfractionsControl.{City, Driver, InfractionType}
+  alias InfractionsControl.{City, Driver, InfractionType, Vehicle}
 
+  @primary_key {:id, :binary_id, autogenerate: true}
   @foreign_key_type :binary_id
+
   @required_attrs [
     :notification_number,
     :post_date,
     :infraction_at,
     :ticket_value,
     :ticket_value_with_discount,
-    :infraction_status,
+    :status,
     :city_id,
     :vehicle_id,
     :infraction_type_id
@@ -29,14 +31,14 @@ defmodule InfractionsControl.Infraction do
     :agent_number,
     :dispute_date,
     :dispute_comments,
-    :vehicle_id,
+    :driver_id,
     :dispute_result,
     :dispute_result_date,
     :dispute_result_comments,
     :ticket_due_date
   ]
 
-  @derive {Jason.Encoder, only: [:id] ++ @required_attrs}
+  @derive {Jason.Encoder, only: [:id, :city, :infraction_type] ++ @required_attrs}
   @dispute_results [:accepted, :rejected]
   @infraction_status [:pending, :reviewing, :finished]
 
@@ -61,6 +63,7 @@ defmodule InfractionsControl.Infraction do
 
     belongs_to :city, City
     belongs_to :driver, Driver
+    belongs_to :vehicle, Vehicle
     belongs_to :infraction_type, InfractionType
 
     timestamps()
